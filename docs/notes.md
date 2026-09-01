@@ -14,3 +14,4 @@ Notes and usage details for harness_engineering.
 - link the usage section
 - fix a small wording issue
 - clarify the setup steps
+- clarify the setup steps
